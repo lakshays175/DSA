@@ -1,0 +1,10 @@
+1. Take a input number and store into a another variable called temp.
+2. Initialize a variable to find the count of the input number with zero
+3. Use loop till the input number is not equal to zero.
+4. Divide the input number by 10 and increase the count variable by 1.
+5. Run another loop till the length not equal to zero
+6. Take another variable to store the the result.
+7. Divide the temp variable with 10 to the power of length -1 and store that into the result.
+8. take the modulus of temp with 10 to the power o length-1.
+9. Decreament length by 1.  
+10. Print the result.

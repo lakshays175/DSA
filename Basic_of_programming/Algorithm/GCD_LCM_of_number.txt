@@ -1,0 +1,6 @@
+1. Take input of two numbers for which you want to find GCD and LCM.
+2. Find the min number from both of the numbers and store into a new variable called min.
+3. Use loop at run it from 1 to min variable.
+3. Check if the the two numbers modulus by 1 to min variable is equal to zero store that number into a new variable called GCD. .
+4. Take another variable to find LCM that is equal to  multiply two numbers divided by GCD.  
+  

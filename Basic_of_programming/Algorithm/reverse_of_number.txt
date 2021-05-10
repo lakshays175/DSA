@@ -1,0 +1,5 @@
+1. Take a variable where you want to store the result.
+2. Use a loop and run it till the input number becomes zero.
+3. Take a modulus of input number by 10  and store it in the result variable.
+4. Divide the input number by 10.
+5. print the result variable.

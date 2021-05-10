@@ -1,0 +1,9 @@
+1. Take input of number and then input with how much you want to rotate.
+2. Take a input of number and store into the temp variable and take a count variable.
+3. Use loop till the input number is not equal to zero.
+3. Divide the input number by 10 and increase the count variable by 1.
+4. As the second input can also be negative, we have to add the count variable to the second input.
+5. Take a temp variable and take modulus with the 10 to the power of second input and store into a variable i.e number1.
+6. Take a temp variable and divide it to the 10 to the power of second input and store into a variable i.e number2.
+7. Take 10 to the power of count variable - second input and store into a variable i.e number3.
+8. Take another variable to store result which will be equal to the number1 multiply by number3 and adding into number 2.     

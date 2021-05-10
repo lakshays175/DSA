@@ -1,0 +1,5 @@
+1. Take starting two numbers in two variables and print it.
+2. Use a loop to run it till the n-2 because starting two numbers have been printed.
+3. Take third variable and store the sum of first two variables in that. 
+4. Put second variable in first and third variable in second.
+5. Print the second variable in it.  

@@ -1,4 +1,3 @@
-package Basic_of_programming.getting_started;
 import java.util.Scanner;
 public class Grading_System {
     public static void main(String[] args) {
@@ -9,6 +8,7 @@ public class Grading_System {
        {
            System.out.println("excellent");
        }
+    
        else if (marks >80 && marks <=90)
        {
            System.out.println("good");
@@ -25,5 +25,6 @@ public class Grading_System {
        {
            System.out.println("below par");
        }
+       scn.close();
         }
 }

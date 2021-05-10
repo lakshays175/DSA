@@ -1,0 +1,9 @@
+1. Take input of number which you want to inverse.
+2. Take a variable store result and also a variable to store the original digit of the number.
+3. Use loop till the input number is not equal to zero.
+3. Take modulus of the input number by 10 and stored in the orginal digit and take another variable orginal place and increase it by 1.
+4. Take two other variables inverse digit and inverse place, in inverse digit store orginal place and in orginal place store inverse digit.
+5. Take a id multiply it by 10 to the power of inverse place minus 1 and store into a variable and add inverse number to it.
+6. put this in inverse number all together. 
+7. keep on dividing the input number by 10.
+  

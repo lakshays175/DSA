@@ -1,0 +1,8 @@
+1. Take the input number.
+2. Take the spaces (2*n-3) and stars as equal to 1.
+3. Take a loop start it from i equal to 1 till n and take another variable val into it and intialise it with 1.
+4. Take another loop start it from 1 till stars,print the val inside it and increase it by 1.
+5. Take another loop start it from 1 till spaces,print the space.
+6. if the i is equal to n then decrease stars by 1 and val also by 1 because it has one extra at the end  and even the val is also increased by 1.
+7. Take another loop start it from 1 till spaces,print the space.
+8. Take another loop start it from 1 till stars,decrease the val and print the val again.

@@ -1,0 +1,4 @@
+1. Take a variable where you want to store the result.
+2. Use loop till the input number is not equal to zero.
+3. Divide the input number by 10 and increase the result variable by 1.
+4. print the variable outside the loop.
